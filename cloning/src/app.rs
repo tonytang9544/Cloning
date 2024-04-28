@@ -1,2 +1,2 @@
-pub mod Record;
-pub mod SeqUtil;
+mod record;
+mod SeqUtil;

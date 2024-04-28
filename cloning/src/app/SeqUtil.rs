@@ -24,3 +24,25 @@ fn ComplementMap (nuc: char) -> Result<char, &'static str> {
         _ => Err("Invalid nucleotide!"),
     }
 }
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    #[test]
+    fn it_works() {
+        let result = 2 + 2;
+        assert_eq!(result, 4);
+    }
+
+    #[test]
+    fn complement() {
+        assert_eq!(Complement(String::from("ATCGgcat")), Ok(String::from("TAGCcgta")));
+        
+    }
+
+    #[test]
+    fn reversecompl() {
+        assert_eq!(ReverseComplement(String::from("ATCGgcat")), Ok(String::from("atgcCGAT")));
+    }
+}
