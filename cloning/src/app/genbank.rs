@@ -1,11 +1,13 @@
 use std::fs::File;
 
+struct Location {
+    loc_str: String
+}
+
 struct Feature {
-    Start: u32,
-    End: u32,
-    IsForwardStrand: bool,
-    FeatureType: String,
-    FeatureNote: String
+    feature_type: String,
+    location: Location,
+    qualifiers: Vec<String>
 }
 
 struct Extra {
@@ -20,11 +22,12 @@ struct Record {
 }
 
 impl Record {
-    fn from_file(&self, input_file:File) -> Record {
-        Record {
-            Sequence:String::from(""),
-            Features:null,
-            Extras: null
-        }
+    fn from_file(&self, input_file: File) -> Result<Record, &'static str> {
+        Err("Error opening file.")
     }
+}
+
+#[cfg(test)]
+mod seq_util_tests {
+    use super::*;
 }
