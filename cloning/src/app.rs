@@ -1,2 +1,2 @@
-mod record;
-mod SeqUtil;
+mod genbank;
+mod seq_util;
