@@ -44,5 +44,6 @@ mod seq_util_tests {
     #[test]
     fn test_reversecompl() {
         assert_eq!(reverse_complement(String::from("ATCGgcat")), Ok(String::from("atgcCGAT")));
+        assert_eq!(complement(String::from("abcde")), Err("Invalid nucleotide!"));
     }
 }

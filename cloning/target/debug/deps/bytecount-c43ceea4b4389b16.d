@@ -1,0 +1,11 @@
+/Users/tony/Documents/E/Coding/VSCode/Cloning/cloning/target/debug/deps/bytecount-c43ceea4b4389b16.rmeta: /Users/tony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bytecount-0.6.8/src/lib.rs /Users/tony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bytecount-0.6.8/src/naive.rs /Users/tony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bytecount-0.6.8/src/integer_simd.rs /Users/tony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bytecount-0.6.8/src/simd/mod.rs /Users/tony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bytecount-0.6.8/src/simd/aarch64.rs
+
+/Users/tony/Documents/E/Coding/VSCode/Cloning/cloning/target/debug/deps/libbytecount-c43ceea4b4389b16.rlib: /Users/tony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bytecount-0.6.8/src/lib.rs /Users/tony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bytecount-0.6.8/src/naive.rs /Users/tony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bytecount-0.6.8/src/integer_simd.rs /Users/tony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bytecount-0.6.8/src/simd/mod.rs /Users/tony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bytecount-0.6.8/src/simd/aarch64.rs
+
+/Users/tony/Documents/E/Coding/VSCode/Cloning/cloning/target/debug/deps/bytecount-c43ceea4b4389b16.d: /Users/tony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bytecount-0.6.8/src/lib.rs /Users/tony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bytecount-0.6.8/src/naive.rs /Users/tony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bytecount-0.6.8/src/integer_simd.rs /Users/tony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bytecount-0.6.8/src/simd/mod.rs /Users/tony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bytecount-0.6.8/src/simd/aarch64.rs
+
+/Users/tony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bytecount-0.6.8/src/lib.rs:
+/Users/tony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bytecount-0.6.8/src/naive.rs:
+/Users/tony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bytecount-0.6.8/src/integer_simd.rs:
+/Users/tony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bytecount-0.6.8/src/simd/mod.rs:
+/Users/tony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bytecount-0.6.8/src/simd/aarch64.rs:
