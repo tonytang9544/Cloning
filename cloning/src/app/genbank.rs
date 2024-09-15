@@ -48,7 +48,7 @@ mod seq_util_tests {
         let file = File::open(file_name).unwrap();
         for seq in SeqReader::new(file) {
             let seq = seq.unwrap();
-            let () = seq;
+            let () = seq; // This merely checks the type of seq at compile time. Not for testing.
         }
     }
 }
